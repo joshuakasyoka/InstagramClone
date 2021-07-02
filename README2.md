@@ -28,3 +28,11 @@ The object operator, `->`, is used in object scope to access methods and propert
         </main>` : allows us to use @yield to present 'content' on `<main>`
 `enctype="multipart/form-data"` enctype tells us what our resource is (and it had a file in it)
 Useful link for looking at controller: https://laravel.com/docs/8.x/controllers. Tells us when to use `post` `get` etc.
+  
+
+##MVC Architecture
+* reminder on MVC here https://selftaughtcoders.com/from-idea-to-launch/lesson-17/laravel-5-mvc-application-in-10-minutes/
+
+##Viewing data
+
+use `{{dd($variable)}}` within the view to see what data is available 
